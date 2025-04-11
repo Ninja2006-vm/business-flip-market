@@ -81,10 +81,10 @@ const BusinessCard = ({
           </div>
           <div className="text-right">
             <div className="text-businesskart-500 font-bold text-lg">
-              ${price.toLocaleString()}
+              ₹{price.toLocaleString()}
             </div>
             <div className="line-through text-gray-400 text-xs">
-              ${originalPrice.toLocaleString()}
+              ₹{originalPrice.toLocaleString()}
             </div>
           </div>
         </div>

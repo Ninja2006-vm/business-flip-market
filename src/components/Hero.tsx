@@ -60,10 +60,10 @@ const Hero = () => {
                 TRENDING
               </div>
               <h3 className="font-bold text-lg mb-2">Tech Startup</h3>
-              <p className="text-gray-600 text-sm mb-4">SaaS platform with $25K MRR</p>
+              <p className="text-gray-600 text-sm mb-4">SaaS platform with ₹25K MRR</p>
               <div className="flex justify-between items-center">
-                <div className="text-businesskart-500 font-bold">$230,000</div>
-                <div className="line-through text-gray-400 text-sm">$350,000</div>
+                <div className="text-businesskart-500 font-bold">₹230,000</div>
+                <div className="line-through text-gray-400 text-sm">₹350,000</div>
               </div>
             </div>
             
@@ -74,8 +74,8 @@ const Hero = () => {
               <h3 className="font-bold text-lg mb-2">E-commerce Store</h3>
               <p className="text-gray-600 text-sm mb-4">Dropshipping business with established supply chain</p>
               <div className="flex justify-between items-center">
-                <div className="text-businesskart-500 font-bold">$45,000</div>
-                <div className="line-through text-gray-400 text-sm">$75,000</div>
+                <div className="text-businesskart-500 font-bold">₹45,000</div>
+                <div className="line-through text-gray-400 text-sm">₹75,000</div>
               </div>
             </div>
             
@@ -86,8 +86,8 @@ const Hero = () => {
               <h3 className="font-bold text-lg mb-2">Mobile App</h3>
               <p className="text-gray-600 text-sm mb-4">Fitness app with 50K active users</p>
               <div className="flex justify-between items-center">
-                <div className="text-businesskart-500 font-bold">$120,000</div>
-                <div className="line-through text-gray-400 text-sm">$200,000</div>
+                <div className="text-businesskart-500 font-bold">₹120,000</div>
+                <div className="line-through text-gray-400 text-sm">₹200,000</div>
               </div>
             </div>
             
