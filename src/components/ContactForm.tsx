@@ -73,6 +73,7 @@ const ContactForm = () => {
                   <h3 className="font-bold text-lg mb-1">Visit Us</h3>
                   <p className="text-gray-600">123 Business Avenue</p>
                   <p className="text-gray-600">New York, NY 10001</p>
+                  <p className="text-gray-600">RV College of Engineering, Bengaluru</p>
                 </div>
               </div>
             </div>
